@@ -1,11 +1,16 @@
 _repo: Mrs-Spring-Fragrance_62940
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62940-h/images/cover.jpg
 creator:
   author:
     agent_name: Far, Sui Sin
     gutenberg_agent_id: '52195'
     url: http://www.gutenberg.org/2009/agents/52195
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62940#Mrs-Spring-Fragrance
 gutenberg_issued: '2020-08-16'
 gutenberg_type: Text
 identifiers:
